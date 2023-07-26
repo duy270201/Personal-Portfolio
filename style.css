@@ -259,7 +259,7 @@ span {
 }
 
 .portfolio {
-    background: var(--second-bg-color);
+    background: var(--bg-color);
 }
 
 .portfolio h2 {
@@ -382,7 +382,7 @@ span {
     align-items: center;
     flex-wrap: wrap;
     padding: 2rem 9%;
-    background: var(--bg-color);
+    background: var(--second-bg-color);
 }
 
 .footer-text p {
